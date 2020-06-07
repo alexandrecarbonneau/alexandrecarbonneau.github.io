@@ -1,5 +1,5 @@
 ---
-title: "Equal risk option pricing with deep reinforcement learning"
+title: "Equal Risk Pricing of Derivatives with Deep Hedging"
 collection: publications
 permalink: /publication/2020-02-19-ERP-deep-RL
 date: 2020-02-19
